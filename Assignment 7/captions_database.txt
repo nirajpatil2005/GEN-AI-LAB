@@ -1,0 +1,420 @@
+captions_text =
+"""a photo of a dog
+a photo of a cat
+a photo of a bird
+a photo of a horse
+a photo of a cow
+a photo of a sheep
+a photo of a lion
+a photo of a tiger
+a photo of a bear
+a photo of an elephant
+a photo of a giraffe
+a photo of a zebra
+a photo of a monkey
+a photo of a rabbit
+a photo of a fox
+a photo of a deer
+a photo of a squirrel
+a photo of a fish
+a photo of a dolphin
+a photo of a whale
+a photo of a penguin
+a photo of an owl
+a photo of an eagle
+a photo of a butterfly
+a cute puppy playing
+a kitten sleeping
+a golden retriever
+a german shepherd
+a siamese cat
+a colorful parrot
+a hamster
+a guinea pig
+a turtle
+a snake
+a lizard
+a frog
+a duck swimming
+a chicken
+a rooster
+wild animals in nature
+farm animals
+pets at home
+zoo animals
+a panda eating bamboo
+a koala in a tree
+a kangaroo
+a wolf howling
+a cheetah running
+a leopard
+a crocodile
+a photo of a person
+a photo of people
+a photo of a man
+a photo of a woman
+a photo of a child
+a photo of a baby
+a group of people
+a family photo
+friends together
+people smiling
+a person working
+a person reading a book
+a person exercising
+a person cooking in kitchen
+people at a party
+a wedding ceremony
+a graduation ceremony
+a business meeting
+a selfie portrait
+a professional portrait
+people dancing
+people eating together
+children playing in park
+a doctor in hospital
+a teacher in classroom
+an athlete competing
+people shopping
+a person using computer
+a person on phone
+people hugging
+a photo of nature
+a photo of a landscape
+a photo of mountains
+a photo of the ocean
+a photo of a beach
+a photo of a forest
+a photo of a lake
+a photo of a river
+a photo of a waterfall
+a photo of a desert
+a photo of a sunset
+a photo of a sunrise
+a photo of clouds
+a photo of the sky
+a photo of stars at night
+a photo of a rainbow
+a snowy mountain peak
+a tropical island
+a grand canyon
+rolling green hills
+a beautiful valley
+a steep cliff
+northern lights aurora
+an active volcano
+a flower meadow
+a vast prairie
+rocky coastline
+a photo of a city
+a photo of a building
+a photo of a street
+a photo of a road
+a photo of a bridge
+a photo of a skyscraper
+a photo of a house
+a photo of an apartment
+a photo of a park
+a photo of a garden
+a photo of a monument
+a photo of a statue
+a photo of a church
+a photo of a temple
+a photo of a mosque
+a photo of a castle
+city skyline at night
+urban street scene
+downtown area
+residential neighborhood
+historic architecture
+modern architecture
+a shopping mall
+a train station
+an airport terminal
+a busy highway
+ancient ruins
+a lighthouse
+a photo of a car
+a photo of a truck
+a photo of a bus
+a photo of a motorcycle
+a photo of a bicycle
+a photo of a train
+a photo of an airplane
+a photo of a helicopter
+a photo of a boat
+a photo of a ship
+a sports car
+a classic vintage car
+an electric car
+a yellow taxi
+a police car
+an ambulance
+a fire truck
+a scooter
+a delivery van
+a luxury SUV
+a racing car
+a pickup truck
+a cruise ship
+a sailboat
+a yacht
+a photo of food
+a photo of a delicious meal
+a photo of breakfast
+a photo of lunch
+a photo of dinner
+a photo of a pizza
+a photo of a burger
+a photo of pasta
+a photo of sushi
+a photo of a fresh salad
+a photo of fruit
+a photo of vegetables
+a photo of a cake
+a photo of dessert
+a photo of ice cream
+a photo of coffee
+a photo of tea
+a photo of a beverage
+a photo of bread
+a photo of cheese
+a photo of grilled meat
+a photo of seafood
+a restaurant dish
+homemade food
+fast food meal
+healthy organic food
+a birthday cake
+chocolate dessert
+fresh fruit salad
+vegetable stir fry
+a photo of indoor scene
+a photo of a living room
+a photo of a bedroom
+a photo of a kitchen
+a photo of a bathroom
+a photo of an office
+a photo of a classroom
+a photo of a library
+a photo of a museum
+a photo of a restaurant interior
+a photo of a cafe
+a photo of a retail store
+a photo of a gym
+a photo of a hospital
+a photo of a hotel room
+modern interior design
+cozy home decor
+wooden furniture
+minimalist interior
+luxurious interior
+a photo of outdoor scene
+people hiking on trail
+people camping in woods
+people swimming in pool
+people surfing waves
+people skiing on snow
+people cycling on road
+people running marathon
+a football match
+a basketball game
+a tennis match
+people playing soccer
+a baseball game
+people fishing by lake
+rock climbing adventure
+skateboarding in park
+snowboarding down slope
+playing golf
+volleyball on beach
+a photo of flowers
+a photo of trees
+a photo of a red rose
+a photo of a sunflower
+a photo of tulips
+a photo of a garden
+a photo of green plants
+a photo of grass
+a photo of autumn leaves
+a photo of a cactus
+a photo of a palm tree
+cherry blossoms blooming
+colorful autumn foliage
+spring flowers blooming
+a beautiful bouquet
+potted indoor plants
+a lush greenhouse
+lavender fields
+dandelions
+orchids
+daisies
+a sunny day
+a cloudy day
+a rainy day
+a snowy winter day
+a foggy morning
+a stormy sky
+spring scenery
+summer beach scene
+autumn colors
+winter wonderland
+perfect clear weather
+dramatic cloudy sky
+a photo of a smartphone
+a photo of a computer
+a photo of a laptop
+a photo of a camera
+a photo of a book
+a photo of a wristwatch
+a photo of eyeglasses
+a photo of a handbag
+a photo of shoes
+a photo of clothing
+a photo of a toy
+a photo of a musical instrument
+a photo of a guitar
+a photo of a piano
+a photo of artwork
+a photo of a painting
+a photo of a sculpture
+electronic devices
+sports equipment
+kitchen utensils
+office supplies
+tools and hardware
+jewelry and accessories
+cosmetics and makeup
+a birthday party celebration
+a wedding reception
+a graduation day
+a music concert
+a cultural festival
+a big celebration
+a colorful parade
+fireworks display at night
+a business conference
+an art exhibition
+a theatrical performance
+a religious ceremony
+a sports championship
+a carnival
+a beautiful scene
+a peaceful moment
+an exciting activity
+a romantic sunset
+a busy marketplace
+a quiet library
+a colorful photograph
+a black and white photo
+a vintage retro photo
+a professional photograph
+an artistic composition
+a creative shot
+abstract art
+minimalist design
+symmetrical pattern
+vibrant colors
+soft pastel tones
+high contrast image
+macro close-up shot
+wide angle landscape
+aerial drone view
+underwater photography
+night photography
+motion blur action
+silhouette at sunset
+reflection in water
+a photo of technology
+a photo of science
+a photo of education
+a photo of healthcare
+a photo of transportation
+a photo of entertainment
+a photo of fashion
+a photo of travel
+a photo of adventure
+a photo of relaxation
+construction site
+factory interior
+agricultural field
+vineyard rows
+orchard trees
+rice paddies
+wind turbines
+solar panels
+oil rig
+mining operation
+space rocket
+satellite in orbit
+astronaut in space
+telescope observatory
+laboratory equipment
+medical equipment
+x-ray image
+microscope view
+chemical reaction
+DNA structure
+mathematical equations
+computer code
+circuit board
+robot machine
+3D printer
+virtual reality headset
+traffic on highway
+subway train
+cable car
+hot air balloon
+paragliding
+skydiving
+bungee jumping
+scuba diving
+mountain climbing
+desert safari
+jungle expedition
+arctic exploration
+tropical rainforest
+coral reef underwater
+sand dunes
+bamboo forest
+rice terraces
+floating market
+street food vendor
+night market
+farmers market
+flea market
+bookstore interior
+record store
+flower shop
+bakery display
+coffee shop interior
+bar at night
+nightclub lights
+theater stage
+movie theater
+stadium crowd
+amusement park
+ferris wheel
+roller coaster
+water park
+aquarium fish
+planetarium
+butterfly garden
+botanical garden
+national park
+wildlife sanctuary
+beach resort
+mountain resort
+ski resort
+camping tent
+bonfire at night
+starry night sky
+milky way galaxy
+full moon
+lunar eclipse
+solar eclipse
+meteor shower
+comet in sky
+planet in space
+nebula in space
+"""
