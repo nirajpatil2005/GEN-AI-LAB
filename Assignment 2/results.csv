@@ -1,0 +1,20 @@
+technique,task,model,latency_ms,input_tokens,output_tokens,total_tokens,score,reasoning_depth,coherence,completeness,response_len,timestamp
+Interview (Questions),Marketing Strategy,openai/gpt-oss-20b,266.95,146,99,245,2.38,0.0,6.1,0.966796875,303,2026-02-25T03:37:56.962127
+Interview,Marketing Strategy,openai/gpt-oss-20b,1175.18,168,1024,1192,4.31,0.0,5.18125,10.0,3378,2026-02-25T03:37:58.137489
+Interview (Questions),Database Optimization,openai/gpt-oss-20b,235.55,143,105,248,2.31,0.0,5.86,1.025390625,302,2026-02-25T03:38:04.434695
+Interview,Database Optimization,openai/gpt-oss-20b,1167.01,171,1024,1195,5.77,0.0,9.34,10.0,993,2026-02-25T03:38:05.601853
+CoT,Math - Average Speed,openai/gpt-oss-20b,388.0,191,264,455,5.89,5.6000000000000005,8.575,2.578125,637,2026-02-25T03:38:09.405113
+CoT,Ethical Reasoning - Layoffs,openai/gpt-oss-20b,1016.04,204,878,1082,9.17,9.600000000000001,9.10909090909091,8.57421875,3428,2026-02-25T03:38:11.950919
+CoT,Code Debugging,openai/gpt-oss-20b,616.62,203,484,687,6.25,5.6000000000000005,8.069565217391304,4.7265625,1802,2026-02-25T03:38:14.861222
+ToT,Startup Strategy Decision,openai/gpt-oss-120b,2604.38,370,1024,1394,5.88,0.0,9.658333333333333,10.0,4121,2026-02-25T03:38:21.778859
+ToT,Algorithm Design - Shortest Path,openai/gpt-oss-120b,2288.46,349,1024,1373,5.62,0.8,8.005882352941176,10.0,2658,2026-02-25T03:38:24.075273
+Zero-Shot,Sentiment Classification,openai/gpt-oss-20b,266.32,121,132,253,2.04,0.0,4.9,1.2890625,8,2026-02-25T03:38:32.102166
+Zero-Shot,Text Summarization,openai/gpt-oss-20b,255.16,157,135,292,3.58,0.0,9.3,1.318359375,381,2026-02-25T03:38:32.857727
+Zero-Shot,Entity Extraction,openai/gpt-oss-20b,364.93,139,243,382,3.67,0.0,8.8,2.373046875,174,2026-02-25T03:38:33.723110
+Zero-Shot,Code Generation,openai/gpt-oss-20b,235.72,106,120,226,2.66,0.0,6.76,1.171875,239,2026-02-25T03:38:34.459285
+Zero-Shot,Math Word Problem,openai/gpt-oss-20b,203.81,115,83,198,1.92,0.0,4.9,0.810546875,8,2026-02-25T03:38:35.163450
+Few-Shot,Sentiment Classification,openai/gpt-oss-20b,446.87,222,317,539,3.75,0.0,8.5,3.095703125,195,2026-02-25T03:38:38.450363
+Few-Shot,Text Summarization,openai/gpt-oss-20b,296.35,300,165,465,3.22,0.0,8.05,1.611328125,178,2026-02-25T03:38:40.888257
+Few-Shot,Entity Extraction,openai/gpt-oss-20b,409.33,238,280,518,3.97,0.0,9.4,2.734375,130,2026-02-25T03:38:41.804660
+Few-Shot,Code Generation,openai/gpt-oss-20b,480.53,214,352,566,3.37,0.0,7.171428571428571,3.4375,442,2026-02-25T03:38:43.350070
+Few-Shot,Math Word Problem,openai/gpt-oss-20b,260.06,259,135,394,2.95,0.0,7.5,1.318359375,132,2026-02-25T03:38:44.117262
